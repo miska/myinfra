@@ -9,7 +9,7 @@ sites:
     url: https://cloud.mujmrak.cz/s/eKHN4paXbZkJNQd/download
   - name: My Infra SMTP
     check: "tcp-ping"
-    url: smpt.myinfra.cz
+    url: smtp.myinfra.cz
     port: 25
   - name: My Infra IMAPS
     check: "tcp-ping"
