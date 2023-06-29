@@ -31,9 +31,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: upptime.myinfra.cz
   baseUrl: /myinfra
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: MyInfra
-  theme: dark
+  logoUrl: https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d
+  name: Můj Mrak
+  theme: night
   introTitle: Uptime of services provided by MyInfra hosting.
   introMessage: See whenever we do some routine maintenance or how much downtime did we had recently.
   navbar:
