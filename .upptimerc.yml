@@ -21,7 +21,7 @@ sites:
     check: "tcp-ping"
     url: imap.myinfra.cz
     port: 993
-  - name: My Infra e-amils
+  - name: My Infra e-mails
     __dangerous__body_down_if_text_missing: It works!
     url: http://status.myinfra.cz/mail_report.txt
 
