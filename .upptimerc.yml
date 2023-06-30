@@ -3,7 +3,7 @@ owner: miska # Your GitHub organization or username, where this repository lives
 repo: myinfra # The name of this repository
 
 sites:
-  - name: Můj Mrak login
+  - name: Můj Mrak webserver
     url: https://cloud.mujmrak.cz
     icon: https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d
   - name: Můj Mrak content
