@@ -35,7 +35,7 @@ status-website:
   logoUrl: https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d
   name: Můj Mrak
   theme: night
-  introTitle: Uptime of services provided by MyInfra hosting.
+  introTitle: Uptime of services provided by Můj Mrak hosting.
   introMessage: See whenever we do some routine maintenance or how much downtime did we had recently.
   navbar:
     - title: Status
