@@ -5,17 +5,19 @@
     "icon": "https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d",
     "slug": "muj-mrak-login",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 6225,
     "timeDay": 6225,
     "timeWeek": 6225,
     "timeMonth": 6225,
     "timeYear": 6225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-30": 0
+    }
   },
   {
     "name": "Můj Mrak content",
@@ -23,17 +25,19 @@
     "icon": "https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d",
     "slug": "muj-mrak-content",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 236,
     "timeDay": 236,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-30": 0
+    }
   },
   {
     "name": "My Infra SMTP",
