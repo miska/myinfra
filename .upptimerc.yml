@@ -9,6 +9,7 @@ sites:
   - name: Můj Mrak content
     url: https://cloud.mujmrak.cz/s/eKHN4paXbZkJNQd/download
     icon: https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d
+    __dangerous__body_down_if_text_missing:: Nextcloud works!
   - name: My Infra SMTP
     check: "tcp-ping"
     url: smtp.myinfra.cz
