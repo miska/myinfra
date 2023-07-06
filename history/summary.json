@@ -4,18 +4,20 @@
     "url": "https://cloud.mujmrak.cz",
     "icon": "https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d",
     "slug": "muj-mrak-webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4679,
-    "timeDay": 4947,
-    "timeWeek": 4679,
-    "timeMonth": 4679,
-    "timeYear": 4679,
-    "dailyMinutesDown": {}
+    "time": 4826,
+    "timeDay": 6154,
+    "timeWeek": 4826,
+    "timeMonth": 4826,
+    "timeYear": 4826,
+    "dailyMinutesDown": {
+      "2023-07-06": 0
+    }
   },
   {
     "name": "Můj Mrak content",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 256,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "time": 247,
+    "timeDay": 263,
+    "timeWeek": 254,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 958,
-    "timeWeek": 983,
-    "timeMonth": 983,
-    "timeYear": 983,
+    "time": 987,
+    "timeDay": 1027,
+    "timeWeek": 944,
+    "timeMonth": 987,
+    "timeYear": 987,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 97,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "time": 113,
+    "timeDay": 125,
+    "timeWeek": 117,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   },
   {
@@ -83,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 123,
-    "timeWeek": 570,
+    "timeDay": 0,
+    "timeWeek": 492,
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {}
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3695,
-    "timeDay": 4471,
-    "timeWeek": 3695,
-    "timeMonth": 3695,
-    "timeYear": 3695,
+    "time": 3813,
+    "timeDay": 5108,
+    "timeWeek": 3584,
+    "timeMonth": 3813,
+    "timeYear": 3813,
     "dailyMinutesDown": {}
   }
 ]
