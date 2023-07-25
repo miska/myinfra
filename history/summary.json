@@ -96,17 +96,19 @@
     "url": "http://status.myinfra.cz/mail_report.txt",
     "icon": "https://icons.duckduckgo.com/ip3/status.myinfra.cz.ico",
     "slug": "my-infra-e-mails",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3742,
-    "timeDay": 5071,
-    "timeWeek": 3120,
-    "timeMonth": 3742,
-    "timeYear": 3742,
-    "dailyMinutesDown": {}
+    "time": 3818,
+    "timeDay": 5590,
+    "timeWeek": 3494,
+    "timeMonth": 3818,
+    "timeYear": 3818,
+    "dailyMinutesDown": {
+      "2023-07-25": 0
+    }
   }
 ]
