@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 5629,
-    "timeDay": 6591,
-    "timeWeek": 6404,
-    "timeMonth": 5604,
-    "timeYear": 5629,
+    "time": 5642,
+    "timeDay": 6504,
+    "timeWeek": 6476,
+    "timeMonth": 5631,
+    "timeYear": 5642,
     "dailyMinutesDown": {
       "2023-07-27": 16,
       "2023-07-15": 19
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 251,
-    "timeWeek": 236,
+    "timeDay": 237,
+    "timeWeek": 230,
     "timeMonth": 239,
     "timeYear": 242,
     "dailyMinutesDown": {}
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 1025,
-    "timeWeek": 1042,
+    "time": 980,
+    "timeDay": 1072,
+    "timeWeek": 1047,
     "timeMonth": 946,
-    "timeYear": 978,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 150,
-    "timeWeek": 124,
+    "time": 121,
+    "timeDay": 131,
+    "timeWeek": 120,
     "timeMonth": 122,
-    "timeYear": 120,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 194,
-    "timeWeek": 789,
-    "timeMonth": 658,
-    "timeYear": 707,
+    "time": 712,
+    "timeDay": 1006,
+    "timeWeek": 770,
+    "timeMonth": 654,
+    "timeYear": 712,
     "dailyMinutesDown": {}
   },
   {
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 3902,
-    "timeDay": 490,
-    "timeWeek": 4489,
-    "timeMonth": 3945,
-    "timeYear": 3902,
+    "time": 3848,
+    "timeDay": 421,
+    "timeWeek": 3832,
+    "timeMonth": 3795,
+    "timeYear": 3848,
     "dailyMinutesDown": {
       "2023-07-25": 40
     }
