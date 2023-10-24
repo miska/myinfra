@@ -1,7 +1,7 @@
 url: http://status.myinfra.cz/mail_report.txt
-status: down
+status: up
 code: 200
-responseTime: 4899
-lastUpdated: 2023-10-24T20:46:04.204Z
+responseTime: 4901
+lastUpdated: 2023-10-24T21:11:24.958Z
 startTime: 2023-06-29T23:25:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
