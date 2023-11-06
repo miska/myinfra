@@ -54,19 +54,19 @@
     "url": "smtp.myinfra.cz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-infra-smtp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 865,
     "timeDay": 259,
     "timeWeek": 587,
     "timeMonth": 719,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 10
     }
   },
   {
@@ -74,19 +74,19 @@
     "url": "smtp.myinfra.cz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-infra-smtps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 147,
-    "timeWeek": 138,
+    "timeDay": 122,
+    "timeWeek": 133,
     "timeMonth": 125,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 10
     }
   },
   {
