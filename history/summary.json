@@ -4,9 +4,9 @@
     "url": "https://cloud.mujmrak.cz",
     "icon": "https://cloud.mujmrak.cz/apps/theming/favicon/files?v=27cfe14d",
     "slug": "muj-mrak-webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
@@ -16,6 +16,7 @@
     "timeMonth": 5456,
     "timeYear": 5621,
     "dailyMinutesDown": {
+      "2023-11-10": 0,
       "2023-11-05": 50,
       "2023-10-30": 61,
       "2023-10-08": 16,
@@ -120,7 +121,7 @@
     "uptimeYear": "98.85%",
     "time": 3756,
     "timeDay": 5528,
-    "timeWeek": 1504,
+    "timeWeek": 1679,
     "timeMonth": 3388,
     "timeYear": 3756,
     "dailyMinutesDown": {
